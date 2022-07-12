@@ -1,0 +1,74 @@
+{
+  "Tree Branch": {
+    "Name": "Tree Branch",
+    "Category": "Resource",
+    "StackSize": 99,
+    "Type": "Misc",
+    "Description": "Used for build"
+  },
+  "Slime Potion": {
+    "Name": "Slime Potion",
+    "Category": "Consumable",
+    "StackSize": 99,
+    "Type": "Consumable",
+    "Description": "HP: +10"
+  },
+  "Iron Sword": {
+    "Name": "Sword",
+    "Category": "Sword",
+    "Attack": 3, 
+    "StackSize": 1,
+    "Type": "Equipable",
+    "Description": "ATK: 5"
+  },
+  "Arrow": {
+    "Name": "Arrow",
+    "Category": "Arrow",
+    "Attack": 5, 
+    "StackSize": 99,
+    "Type": "Misc",
+    "Description": "DMG: 5"
+  },
+  "Helmet": {
+    "Name": "Helmet",
+    "Category": "Helmet",
+    "StackSize": 1,
+    "Type": "Equipable",
+    "Description": "DEF: 5"
+  },
+  "Chest": {
+    "Name": "Chest",
+    "Category": "Chest",
+    "StackSize": 1,
+    "Type": "Equipable",
+    "Description": "DEF: 5"
+  },
+  "Boots": {
+    "Name": "Boots",
+    "Category": "Boots",
+    "StackSize": 1,
+    "Type": "Equipable",
+    "Description": "DEF: 5"
+  },
+  "Sword": {
+    "Name": "Sword",
+    "Category": "Sword",
+    "StackSize": 1,
+    "Type": "Equipable",
+    "Description": "ATK: 5"
+  },
+  "Shield": {
+    "Name": "Shield",
+    "Category": "Shield",
+    "StackSize": 1,
+    "Type": "Equipable",
+    "Description": "DEF: 5"
+  },
+  "Bow": {
+    "Name": "Bow",
+    "Category": "Bow",
+    "StackSize": 1,
+    "Type": "Equipable",
+    "Description": "ATK: 5"
+  }
+}
